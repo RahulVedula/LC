@@ -5,4 +5,4 @@
 | 212            | Hard       | Backtracking | Consider case where multiple words appear from same suffix, no premature returns |
 | 3169           | Medium (contest)       | DFS | Pretty easy problem, make sure you sort meeting dates correctly |
 | 229           | Medium     | Hash | Easy |
-
+| 2375           | Medium     | Backtracking | Backtrack through, keeping a set of possible integers |
