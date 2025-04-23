@@ -9,6 +9,8 @@
 | 1079           | Medium     | Backtracking | Backtrack permutations
 | 1291           | Medium     | Tree, Design | Remember tree unique indexing (calculating distance between nodes, odd and even indexing) |
 | 22             | Medium     | DP, backtrack | encode valid paranthesis into backtrack |
-| 63             | Medium     | DP | Remember base cases and edge cases|
+| 62             | Medium     | DP | Remember base cases and edge cases|
+| 63             | Medium     | DP| Think about edge cases and bases cases (some stupid ones like if the obstacle is on the first square return 0) also remember summing 2d arr |
 | 64             | Medium     | DP| Think about edge cases and bases cases (some stupid ones like if the obstacle is on the first square return 0) also remember summing 2d arr |
+
 
