@@ -15,5 +15,5 @@
 |55              | Medium     | DP| Decievingly Greedy problem, simple O(n) solution exists, DP sol to slow|
 |2222             | Medium     | Greedy| Keep track of 0,1,01,10,101,010 --> greedy solution is devious 
 |983             |Medium| DP| Make sure you understand the problem, logic is not difficult, make sure you start at right day and index correctly|
-
+|2140           |Medium| DP| (Revisit) Bag pull -- went deep in my bag for this, always remember that DP can also reverse the list and use those indices to maintain bottom up|
 
