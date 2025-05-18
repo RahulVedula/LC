@@ -17,4 +17,5 @@
 |983             |Medium| DP| Make sure you understand the problem, logic is not difficult, make sure you start at right day and index correctly|
 |2140           |Medium| DP| (Revisit) Bag pull -- went deep in my bag for this, always remember that DP can also reverse the list and use those indices to maintain bottom up|
 |1035           |Medium| DP| (Revisit) Longest common subsequence, but with uncrossed lines. If both numbers at the end are equal then continue, else take one letter off and repeat...|
+|712           |Medium| DP| (Revisit) REMEMBER INDICES FOR TWO SEQUENCE QUESTIONS, longer string must have enough array buckets to store answer, otherwise intuitive|
 
