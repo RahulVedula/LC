@@ -16,4 +16,5 @@
 |2222             | Medium     | Greedy| Keep track of 0,1,01,10,101,010 --> greedy solution is devious 
 |983             |Medium| DP| Make sure you understand the problem, logic is not difficult, make sure you start at right day and index correctly|
 |2140           |Medium| DP| (Revisit) Bag pull -- went deep in my bag for this, always remember that DP can also reverse the list and use those indices to maintain bottom up|
+|1035           |Medium| DP| (Revisit) Longest common subsequence, but with uncrossed lines. If both numbers at the end are equal then continue, else take one letter off and repeat...|
 
