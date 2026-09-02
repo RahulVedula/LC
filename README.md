@@ -20,3 +20,4 @@
 |712           |Medium| DP| (Revisit) REMEMBER INDICES FOR TWO SEQUENCE QUESTIONS, longer string must have enough array buckets to store answer, otherwise intuitive|
 |931           |Medium| DP| Grid DP|
 | 9 | Easy | Brute Force | Testing |
+| 4 | Hard | Binary Search | Binary Searching based on halfway splits of arrays (logcially O(log(m+n)). Remember arrays are sorted, and an arbitrary index should split one of the arrays (whichever is smaller than combined indexes). Remmber the search index should shrink if we remove the top half of an array). |
