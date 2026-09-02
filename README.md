@@ -19,17 +19,3 @@
 |1035           |Medium| DP| (Revisit) Longest common subsequence, but with uncrossed lines. If both numbers at the end are equal then continue, else take one letter off and repeat...|
 |712           |Medium| DP| (Revisit) REMEMBER INDICES FOR TWO SEQUENCE QUESTIONS, longer string must have enough array buckets to store answer, otherwise intuitive|
 |931           |Medium| DP| Grid DP|
-
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1362-closest-divisors](https://github.com/RahulVedula/LC/tree/main/1362-closest-divisors/) | Medium |
-## Prime Factorization
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1362-closest-divisors](https://github.com/RahulVedula/LC/tree/main/1362-closest-divisors/) | Medium |
-<!---LeetCode Topics End-->
