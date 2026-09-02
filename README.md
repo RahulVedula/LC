@@ -21,3 +21,15 @@
 |931           |Medium| DP| Grid DP|
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1362-closest-divisors](https://github.com/RahulVedula/LC/tree/main/1362-closest-divisors/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1362-closest-divisors](https://github.com/RahulVedula/LC/tree/main/1362-closest-divisors/) | Medium |
+<!---LeetCode Topics End-->
