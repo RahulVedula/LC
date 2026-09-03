@@ -25,3 +25,4 @@
 | 3876 | Medium | Math | Consider the minimum of the array, given it can't be changed, then determine a pattern based on that |
 | 1329 | Medium | Brute Force | Read question properly, sorting on a diagonal will require a new array. Look at heap solutions |
 | 3159 | Medium | Hash Table | Straightforward Problem, Keep Track of X's appearances in the array. |
+| 304 | Medium | Math | Not Intuitive, O(mn) one time pass works uisng column, but make sure to watch edge cases for the sum. Core idea is to construct prefix sum with the (0,0) corner and calculate based on that. |
