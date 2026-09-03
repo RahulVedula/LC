@@ -23,3 +23,4 @@
 | 4 | Hard | Binary Search | Binary Searching based on halfway splits of arrays (logcially O(log(m+n)). Remember arrays are sorted, and an arbitrary index should split one of the arrays (whichever is smaller than combined indexes). Remmber the search index should shrink if we remove the top half of an array). |
 | 2240 | Medium | Math | Not as challenging as it appears, remember that there are only two costs (like that CCC problem), so as we increment one we can do O(1) ops to get the other. |
 | 3876 | Medium | Math | Consider the minimum of the array, given it can't be changed, then determine a pattern based on that |
+| 1329 | Medium | Brute Force | Read question properly, sorting on a diagonal will require a new array. Look at heap solutions |
