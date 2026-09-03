@@ -24,3 +24,4 @@
 | 2240 | Medium | Math | Not as challenging as it appears, remember that there are only two costs (like that CCC problem), so as we increment one we can do O(1) ops to get the other. |
 | 3876 | Medium | Math | Consider the minimum of the array, given it can't be changed, then determine a pattern based on that |
 | 1329 | Medium | Brute Force | Read question properly, sorting on a diagonal will require a new array. Look at heap solutions |
+| 3159 | Medium | Hash Table | Straightforward Problem, Keep Track of X's appearances in the array. |
