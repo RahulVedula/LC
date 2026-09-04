@@ -28,3 +28,4 @@
 | 304 | Medium | Math | Not Intuitive, O(mn) one time pass works uisng column, but make sure to watch edge cases for the sum. Core idea is to construct prefix sum with the (0,0) corner and calculate based on that. |
 | 2581 | Hard | DFS | No need for DP, one-pass is enough to compute the number of roots at 0. From there, we can make a super quick idstinction for the neighbours (+1 if (neighbour, root) in guess set, -1 if (root, neighbour) was in guess set) |
 | 2761 | Medium | Math | Sieve Modified, solve in One-pass |
+| 3618 | Medium | Math | Simple, just use Sieve |
