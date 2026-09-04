@@ -30,3 +30,4 @@
 | 2761 | Medium | Math | Sieve Modified, solve in One-pass |
 | 3618 | Medium | Math | Simple, just use Sieve |
 | 1642 | Medium | Heap | Not so intuitive heap solution, important to break down the problem here. A ladder essentially means how many array entries can I skip before I need to count bricks (or diff between curr and next).  The important distinction, the entries wwe want to skip are the largest ones so we need a heao wich basically tells us which to use ladders on -- the k (or loadders) largest elements |
+| 3761 | Medium | Hash Table | Keep track of previously seen reversed, just make sure that reversing the num is done properly |
