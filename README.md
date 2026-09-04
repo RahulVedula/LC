@@ -29,3 +29,4 @@
 | 2581 | Hard | DFS | No need for DP, one-pass is enough to compute the number of roots at 0. From there, we can make a super quick idstinction for the neighbours (+1 if (neighbour, root) in guess set, -1 if (root, neighbour) was in guess set) |
 | 2761 | Medium | Math | Sieve Modified, solve in One-pass |
 | 3618 | Medium | Math | Simple, just use Sieve |
+| 1642 | Medium | Heap | Not so intuitive heap solution, important to break down the problem here. A ladder essentially means how many array entries can I skip before I need to count bricks (or diff between curr and next).  The important distinction, the entries wwe want to skip are the largest ones so we need a heao wich basically tells us which to use ladders on -- the k (or loadders) largest elements |
