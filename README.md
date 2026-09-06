@@ -33,3 +33,4 @@
 | 3761 | Medium | Hash Table | Keep track of previously seen reversed, just make sure that reversing the num is done properly |
 | 1761 | Hard | DFS | Compute trios, the important distinction is to consider the direction of the nodes. We should orient the graph such that we only consider the direction where we go from lower nodes to greater nodes. This avoids recomputation (given we only need ot process one direction), and minimizes the amount fo times we need to loop (i.e. we are always processing the node with the least amount of degree first, for any edge) |
 | 3904 | Medium | Two Pointer | Simple Problem, just keep track of mins and maxes on left,right sides |
+| 1048 | Medium | DP | Read the question, nothing difficult, lenient time complexity |
