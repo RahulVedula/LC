@@ -38,3 +38,4 @@
 | 2707 | Medium | DP | Super Simple DP state (blaming it on being tired), basically we note that the extra characters from substring[i:] should hold  since we processes smaller words earlier |
 | 3918 | Medium | Math | Simple math problem, nothing too complicated |
 | 2641 | Medium | BFS | Level-Order Traversal of the tree, keeping track of parent sum and then updating values in two passes. Used a two-pass solution, but a one-pass solution is possible by processing the NEXT LEVELs SUM first and updating the child nodes in the next level to their siblings sum. |
+| 1743 | Medium | DFS | Important distinction to remember the roots of adjacent pairs must only appear once + any number can only appear at most twice. Hence, for any neighbour, we must have already proceessed one of its edges (to get to the current node), hence we just need to add the other to a stack. its basically a line. |
