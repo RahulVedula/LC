@@ -37,3 +37,4 @@
 | 402 | Medium | Monotonic Stack | The monotonic stack works here (similar to how a  heap works essentially), basically we want to remove the largest elements from the start, hence a monotonic stack implies the order is always ascending and if optimally removed, the smallest number will be ascedning order. |
 | 2707 | Medium | DP | Super Simple DP state (blaming it on being tired), basically we note that the extra characters from substring[i:] should hold  since we processes smaller words earlier |
 | 3918 | Medium | Math | Simple math problem, nothing too complicated |
+| 2641 | Medium | BFS | Level-Order Traversal of the tree, keeping track of parent sum and then updating values in two passes. Used a two-pass solution, but a one-pass solution is possible by processing the NEXT LEVELs SUM first and updating the child nodes in the next level to their siblings sum. |
