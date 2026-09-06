@@ -34,3 +34,4 @@
 | 1761 | Hard | DFS | Compute trios, the important distinction is to consider the direction of the nodes. We should orient the graph such that we only consider the direction where we go from lower nodes to greater nodes. This avoids recomputation (given we only need ot process one direction), and minimizes the amount fo times we need to loop (i.e. we are always processing the node with the least amount of degree first, for any edge) |
 | 3904 | Medium | Two Pointer | Simple Problem, just keep track of mins and maxes on left,right sides |
 | 1048 | Medium | DP | Read the question, nothing difficult, lenient time complexity |
+| 402 | Medium | Monotonic Stack | The monotonic stack works here (similar to how a  heap works essentially), basically we want to remove the largest elements from the start, hence a monotonic stack implies the order is always ascending and if optimally removed, the smallest number will be ascedning order. |
