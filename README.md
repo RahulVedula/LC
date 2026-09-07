@@ -46,3 +46,4 @@
 | 1209 | Medium | Stack | use a stack to keep track of letters seen, pop when k duplicate letters are seen (this basically collapses the stack to always have the duplciaation check up to date). |
 | 1519 | Medium | DFS | Two-pass solution (store freq and then use that freq map to get the label frequency works). A one-pass solution is more clean though (simply propogating the frequency map up and using it to store answer then, given thats the subtree count). Akin to a dp pproblem |
 | 3746 | Medium | Stack | Stack Problem, pre basic because they concatenate after being removed |
+| 3112 | Medium | Dijkstras | Straightforward Dijkstras, just refresh on syntax and process disappearances in alg |
