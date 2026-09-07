@@ -47,3 +47,4 @@
 | 1519 | Medium | DFS | Two-pass solution (store freq and then use that freq map to get the label frequency works). A one-pass solution is more clean though (simply propogating the frequency map up and using it to store answer then, given thats the subtree count). Akin to a dp pproblem |
 | 3746 | Medium | Stack | Stack Problem, pre basic because they concatenate after being removed |
 | 3112 | Medium | Dijkstras | Straightforward Dijkstras, just refresh on syntax and process disappearances in alg |
+| 4039 | Medium | Math | Make sure to keep total_sum bounded by not only calculating the power bounded (pow(x, y, MOD)), but also making sure to bound the addition (i.e the final result) |
