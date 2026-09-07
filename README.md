@@ -48,3 +48,4 @@
 | 3746 | Medium | Stack | Stack Problem, pre basic because they concatenate after being removed |
 | 3112 | Medium | Dijkstras | Straightforward Dijkstras, just refresh on syntax and process disappearances in alg |
 | 4039 | Medium | Math | Make sure to keep total_sum bounded by not only calculating the power bounded (pow(x, y, MOD)), but also making sure to bound the addition (i.e the final result) |
+| 940 | Hard | DP | (REVISIT) Top down solution is mainly intiutive, similar to what we see in that we don't want to reprocess subsequences that start with a character we will see. There's also a good amount of math in here, just remember the +1 accounts for the current character in the subseq |
