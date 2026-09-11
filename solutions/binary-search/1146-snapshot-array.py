@@ -1,0 +1,1 @@
+SnapshotArray(int length)
