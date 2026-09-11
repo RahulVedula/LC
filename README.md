@@ -60,6 +60,7 @@
 | 2096 | Medium | DFS | Watch the memory limits with strings, other than that what we can essentially do is populate an ARRAY with the current path (using backtracking), we get the path to the start and to the destination. Then we see how many of their levels match (i.e they are going the same way), after wards, we move up so that the start value is at the shared level, then continue with the instructions to get to the destination. |
 | 2131 | Medium | Hash Table | Break this down into manageable parts. There are three cases essentially: The mirror word appears in the given words. The mirror word is different than current word so we can put it in any order in a valid palindrome, hence max_length += 4 * min(word_set[reverse], word_set[word]). Otherwise, if we have a two-letter, we note it will be unpaired, but we can squeeze it in the middle somewhere (as it's the same as it's mirror) => hence this unpaired gets added later and is another case. The final case is the same as the original one |
 | 198 | Medium | DP | Basic Dp |
+| 1146 | Medium | Binary Search | Refresh on the binary search algorithm using bisect (bisect_left, bisect_right), this is perfect for finding the index just make sure know how to use. Other than that for this q in specific make sure that for each index that the snapshots don't have multiple entries at the same snap_id |
 
 
 
