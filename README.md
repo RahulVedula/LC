@@ -56,13 +56,12 @@
 | 795 | Medium | Two Pointer | Should do an atMost solution (count the number of subarrays with atmost _ maximum sum), then subtract atMost(right) - atMost(left-1) |
 | 2251 | Hard | Intervals | Use a heap to keep track of minimum end time seen, add to the heap when start time is less than current person's visit |
 | 1293 | Hard | BFS | Think through teh question first, note that this is most likely going to be BFS (with some variation of dp), because it's not directed so a visited list must exist. This comes in the form of something like "best" array. DP would work, we would just need to keep track of visited with some backtracking |
-| 778 | Hard | Dijkstras | Note: No DAG so not a DP Q, min cost to reach is BFS/djikastras but note here that we edge cost is not 1/zero so djikstras is the play
-| 2096 | Medium | DFS | Watch the memory limits with strings, other than that what we can essentially do is populate an ARRAY with the current path (using backtracking), we get the path to the start and to the destination. Then we see how many of their levels match (i.e they are going the same way), after wards, we move up so that the start value is at the shared level, then continue with the instructions to get to the destination. |
-| 2131 | Medium | Hash Table | Break this down into manageable parts. There are three cases essentially:
-| 198 | Medium | DP | Basic Dp |
-
-The mirror word appears in the given words. The mirror word is different than current word so we can put it in any order in a valid palindrome, hence max_length += 4 * min(word_set[reverse], word_set[word]). Otherwise, if we have a two-letter, we note it will be unpaired, but we can squeeze it in the middle somewhere (as it's the same as it's mirror) => hence this unpaired gets added later and is another case. The final case is the same as the original one |
-
-DP: Use DP when the problem has reusable states with a natural ordering / DAG structure, so the answer for a state can be computed from other states without problematic cycles.
+| 778 | Hard | Dijkstras | Note: No DAG so not a DP Q, min cost to reach is BFS/djikastras but note here that we edge cost is not 1/zero so djikstras is the play DP: Use DP when the problem has reusable states with a natural ordering / DAG structure, so the answer for a state can be computed from other states without problematic cycles.
 BFS: Use BFS for shortest-path problems where every move/edge has the same cost (usually 1), so the first time you reach a state is optimal.
 Dijkstra: Use Dijkstra for shortest-path/minimum-cost problems where edges or transitions have different non-negative costs, so you need to prioritize the currently cheapest state. |
+| 2096 | Medium | DFS | Watch the memory limits with strings, other than that what we can essentially do is populate an ARRAY with the current path (using backtracking), we get the path to the start and to the destination. Then we see how many of their levels match (i.e they are going the same way), after wards, we move up so that the start value is at the shared level, then continue with the instructions to get to the destination. |
+| 2131 | Medium | Hash Table | Break this down into manageable parts. There are three cases essentially: The mirror word appears in the given words. The mirror word is different than current word so we can put it in any order in a valid palindrome, hence max_length += 4 * min(word_set[reverse], word_set[word]). Otherwise, if we have a two-letter, we note it will be unpaired, but we can squeeze it in the middle somewhere (as it's the same as it's mirror) => hence this unpaired gets added later and is another case. The final case is the same as the original one |
+| 198 | Medium | DP | Basic Dp |
+
+
+
