@@ -61,6 +61,7 @@
 | 2131 | Medium | Hash Table | Break this down into manageable parts. There are three cases essentially: The mirror word appears in the given words. The mirror word is different than current word so we can put it in any order in a valid palindrome, hence max_length += 4 * min(word_set[reverse], word_set[word]). Otherwise, if we have a two-letter, we note it will be unpaired, but we can squeeze it in the middle somewhere (as it's the same as it's mirror) => hence this unpaired gets added later and is another case. The final case is the same as the original one |
 | 198 | Medium | DP | Basic Dp |
 | 1146 | Medium | Binary Search | Refresh on the binary search algorithm using bisect (bisect_left, bisect_right), this is perfect for finding the index just make sure know how to use. Other than that for this q in specific make sure that for each index that the snapshots don't have multiple entries at the same snap_id |
+| 845 | Medium | Two Pointer | One pass solution in O(1) is so annoying to reason about, just need to think it through. For an interview, the better solution is to use left and right arrays to indicate the length of a strictly increasing seq at each i. |
 
 
 
