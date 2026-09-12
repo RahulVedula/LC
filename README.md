@@ -64,6 +64,7 @@
 | 845 | Medium | Two Pointer | One pass solution in O(1) is so annoying to reason about, just need to think it through. For an interview, the better solution is to use left and right arrays to indicate the length of a strictly increasing seq at each i. |
 | 900 | Medium | Counting | Just don't unload the entire array and try to process n, just process the encoding one at a time using a while loop and based on index amount |
 | 8 | Medium | Brute Force | Tokenization, just think carefully before doing the problem, thats honestly all |
+| 438 | Medium | Sliding Window | Make sure not to repeatedly build the anagram's frequency map and instead just add or subtract by one |
 
 
 
