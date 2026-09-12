@@ -62,6 +62,7 @@
 | 198 | Medium | DP | Basic Dp |
 | 1146 | Medium | Binary Search | Refresh on the binary search algorithm using bisect (bisect_left, bisect_right), this is perfect for finding the index just make sure know how to use. Other than that for this q in specific make sure that for each index that the snapshots don't have multiple entries at the same snap_id |
 | 845 | Medium | Two Pointer | One pass solution in O(1) is so annoying to reason about, just need to think it through. For an interview, the better solution is to use left and right arrays to indicate the length of a strictly increasing seq at each i. |
+| 900 | Medium | Counting | Just don't unload the entire array and try to process n, just process the encoding one at a time using a while loop and based on index amount |
 
 
 
