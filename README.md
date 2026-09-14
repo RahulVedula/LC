@@ -67,6 +67,7 @@
 | 438 | Medium | Sliding Window | Make sure not to repeatedly build the anagram's frequency map and instead just add or subtract by one |
 | 1928 | Hard | Dijkstras | Use a memoized state of (fee, time), only add if we see either a smaller fee or smaller time. To improve this space complexity what we can do is see if the current time is greater than the minimum time we saw for this node (once a node has been processed, it must mean it has smaller cost, so if it also has smaller time then minTime we can use to knock out anything else. WOrks on the same premise as below, only process nodes where either the cost is smaller or the time is smaller |
 | 213 | Medium | DP | Either rob first house or dont rob last |
+| 162 | Medium | Binary Search | Adjacent elements can not be equal too each other so this is pretty straightforward |
 
 
 
