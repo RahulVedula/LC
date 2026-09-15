@@ -70,6 +70,7 @@
 | 162 | Medium | Binary Search | Adjacent elements can not be equal too each other so this is pretty straightforward |
 | 2468 | Hard | Design | Watch the log issues, convert to string instead of log (honestly general advice, lots of mishaps have t round otherwise) |
 | 173 | Medium | DFS | In Order Traversal |
+| 1641 | Medium | DP | track number of vowels |
 
 
 
