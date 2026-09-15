@@ -73,6 +73,7 @@
 | 1641 | Medium | DP | track number of vowels |
 | 2785 | Medium | Brute Force | Straightforward solution |
 | 1419 | Medium | Counting | Just remember we keep track f which frog is at what stage, but also the total number of frogs we see (corresponds to the number of "C's" that have not reached "K") |
+| 2512 | Medium | Sorting | Easy |
 
 
 
