@@ -79,6 +79,7 @@
 | 3659 | Medium | Math | Focus on highest frequency number |
 | 23 | Hard | Linked List | pre simple, could alternatively sort, but prolly best to do it using heap yk |
 | 124 | Hard | DFS | Just remember kadanes algo + path sum means we cna on;y take from left or right |
+| 239 | Hard | Monotonic Queue | Heap sol works, but queue is faster becuase it preserves index order and maximal number |
 
 
 
