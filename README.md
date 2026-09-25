@@ -77,6 +77,7 @@
 | 3727 | Medium | Two Pointer | straightforward |
 | 847 | Hard | Bitmask | Standard bitmask problem, rmemeber no dp cuz undirected graph allows for cycles. DP ON DAGS |
 | 3659 | Medium | Math | Focus on highest frequency number |
+| 23 | Hard | Linked List | pre simple, could alternatively sort, but prolly best to do it using heap yk |
 
 
 
