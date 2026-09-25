@@ -78,6 +78,7 @@
 | 847 | Hard | Bitmask | Standard bitmask problem, rmemeber no dp cuz undirected graph allows for cycles. DP ON DAGS |
 | 3659 | Medium | Math | Focus on highest frequency number |
 | 23 | Hard | Linked List | pre simple, could alternatively sort, but prolly best to do it using heap yk |
+| 124 | Hard | DFS | Just remember kadanes algo + path sum means we cna on;y take from left or right |
 
 
 
