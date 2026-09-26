@@ -81,6 +81,7 @@
 | 124 | Hard | DFS | Just remember kadanes algo + path sum means we cna on;y take from left or right |
 | 239 | Hard | Monotonic Queue | Heap sol works, but queue is faster becuase it preserves index order and maximal number |
 | 200 | Medium | DFS | Might be easiest dfs ever |
+| 295 | Hard | Heap | Split into lower half and upper half and keep balancing |
 
 
 
