@@ -82,6 +82,7 @@
 | 239 | Hard | Monotonic Queue | Heap sol works, but queue is faster becuase it preserves index order and maximal number |
 | 200 | Medium | DFS | Might be easiest dfs ever |
 | 295 | Hard | Heap | Split into lower half and upper half and keep balancing |
+| 2044 | Medium | DP | Just remember the correct dp state and what to do for treating things outside the bounds (dont be stupid) |
 
 
 
