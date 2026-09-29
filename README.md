@@ -83,6 +83,7 @@
 | 200 | Medium | DFS | Might be easiest dfs ever |
 | 295 | Hard | Heap | Split into lower half and upper half and keep balancing |
 | 2044 | Medium | DP | Just remember the correct dp state and what to do for treating things outside the bounds (dont be stupid) |
+| 84 | Hard | Monotonic Stack | Need to think hard about this question tbh, important to note that we want a monotnically increasing stack, for every height smaller we can basically extend to whatever index the height we popped can extend to (as everything must be less than current height) |
 
 
 
