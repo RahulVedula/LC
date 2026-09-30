@@ -88,6 +88,7 @@
 | 3815 | Medium | Heap | Lazy deletion |
 | 150 | Medium | Stack | Straightfoward when you consider stack |
 | 560 | Medium | Hash Table | REMEMBER, no sliding window because invairant does not hold, we have negative numbers so if we move forward by one and sliding window is not true then we might be able to move foreawrd one more and it is true, no invariant that once its false its alwayss false. |
+| 2034 | Medium | Heap | Lazy Deletion with heap |
 
 
 
