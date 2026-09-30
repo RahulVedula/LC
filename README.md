@@ -86,6 +86,7 @@
 | 84 | Hard | Monotonic Stack | Need to think hard about this question tbh, important to note that we want a monotnically increasing stack, for every height smaller we can basically extend to whatever index the height we popped can extend to (as everything must be less than current height) |
 | 1466 | Medium | DFS | Just remember that flipping means we can go from a to b but we wanna go from b to a so we flip then |
 | 3815 | Medium | Heap | Lazy deletion |
+| 150 | Medium | Stack | Straightfoward when you consider stack |
 
 
 
