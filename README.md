@@ -87,6 +87,7 @@
 | 1466 | Medium | DFS | Just remember that flipping means we can go from a to b but we wanna go from b to a so we flip then |
 | 3815 | Medium | Heap | Lazy deletion |
 | 150 | Medium | Stack | Straightfoward when you consider stack |
+| 560 | Medium | Hash Table | REMEMBER, no sliding window because invairant does not hold, we have negative numbers so if we move forward by one and sliding window is not true then we might be able to move foreawrd one more and it is true, no invariant that once its false its alwayss false. |
 
 
 
