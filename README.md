@@ -90,6 +90,7 @@
 | 560 | Medium | Hash Table | REMEMBER, no sliding window because invairant does not hold, we have negative numbers so if we move forward by one and sliding window is not true then we might be able to move foreawrd one more and it is true, no invariant that once its false its alwayss false. |
 | 2034 | Medium | Heap | Lazy Deletion with heap |
 | 996 | Hard | Backtracking | Keep track of frequency as duplicates can cause stack to explode and they're all treated the same, note that preventing. We could use a bitmask and keep track of order when nodes are seen |
+| 921 | Medium | Stack | Pop whatever works, append whatever doesnt |
 
 
 
