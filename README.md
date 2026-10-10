@@ -91,6 +91,7 @@
 | 2034 | Medium | Heap | Lazy Deletion with heap |
 | 996 | Hard | Backtracking | Keep track of frequency as duplicates can cause stack to explode and they're all treated the same, note that preventing. We could use a bitmask and keep track of order when nodes are seen |
 | 921 | Medium | Stack | Pop whatever works, append whatever doesnt |
+| 287 | Medium | Linked List | Tortoise + hare |
 
 
 
