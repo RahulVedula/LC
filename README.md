@@ -92,6 +92,7 @@
 | 996 | Hard | Backtracking | Keep track of frequency as duplicates can cause stack to explode and they're all treated the same, note that preventing. We could use a bitmask and keep track of order when nodes are seen |
 | 921 | Medium | Stack | Pop whatever works, append whatever doesnt |
 | 287 | Medium | Linked List | Tortoise + hare |
+| 765 | Hard | Union Find | We want to find for a particular value, how many couples are involved in that couple needing to sit together (i.e people paried with the couple). We can then find out how many unique couples that is and subtract by 1for the number of swaps to get in the correct order. To do this, we can use union find, find the size of each group //2 (because we need couple count) and usbtract by one |
 
 
 
