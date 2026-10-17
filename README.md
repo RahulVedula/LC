@@ -95,6 +95,7 @@
 | 765 | Hard | Union Find | We want to find for a particular value, how many couples are involved in that couple needing to sit together (i.e people paried with the couple). We can then find out how many unique couples that is and subtract by 1for the number of swaps to get in the correct order. To do this, we can use union find, find the size of each group //2 (because we need couple count) and usbtract by one |
 | 3941 | Medium | Brute Force | Might be the easiest problem on LC |
 | 1169 | Medium | Brute Force | Just remember the detials |
+| 3551 | Medium | Brute Force | (REVIST) Think hard about the problem, its easy but need to think through swapping problem |
 
 
 
