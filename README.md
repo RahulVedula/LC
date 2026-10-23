@@ -100,6 +100,7 @@
 | 2192 | Medium | Graph Theory | Topological Sort q pre straight forward, just read q description and reqs |
 | 2734 | Medium | Brute Force | Simple |
 | 3686 | Hard | DP | Just don't forget about the None/0 checks default behaviour and also make sure to add mod before final result |
+| 3148 | Medium | DP | Watch the move condition, just use float("-inf") and then kadanes after |
 
 
 
