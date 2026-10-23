@@ -101,6 +101,7 @@
 | 2734 | Medium | Brute Force | Simple |
 | 3686 | Hard | DP | Just don't forget about the None/0 checks default behaviour and also make sure to add mod before final result |
 | 3148 | Medium | DP | Watch the move condition, just use float("-inf") and then kadanes after |
+| 1792 | Medium | Heap | Notice we want to keep track of some order of classes, in this case we want to add one to the class with the greatest BENEFIT! |
 
 
 
