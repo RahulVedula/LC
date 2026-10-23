@@ -98,6 +98,7 @@
 | 3551 | Medium | Brute Force | (REVIST) Think hard about the problem, its easy but need to think through swapping problem |
 | 2171 | Medium | Prefix Sum | Prefix Sum + Sorting, not a hard problem at all, just think carefully about the problem, Really not sur ehow i didnt one shot so REVISIT |
 | 2192 | Medium | Graph Theory | Topological Sort q pre straight forward, just read q description and reqs |
+| 2734 | Medium | Brute Force | Simple |
 
 
 
