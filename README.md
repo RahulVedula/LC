@@ -106,6 +106,7 @@
 | 2336 | Medium | Heap | Think a bit |
 | 2086 | Medium | Greedy | Iterate through, figure out the next, pretty straightforward |
 | 3819 | Medium | Queue | Queue makes implementation easy, everything else is calm |
+| 486 | Medium | DP | Min max algorihm, remember that min just keeps track of max's score, so we don't add nums[i] to it, but observe max's socre on changing boiunds |
 
 
 
