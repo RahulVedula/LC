@@ -103,6 +103,7 @@
 | 3148 | Medium | DP | Watch the move condition, just use float("-inf") and then kadanes after |
 | 1792 | Medium | Heap | Notice we want to keep track of some order of classes, in this case we want to add one to the class with the greatest BENEFIT! |
 | 2466 | Medium | DP | Similar to the palindrom question, never iterate over DP states but over the function calls, the reason is because sometimes we need ALL STATES IN AND BETWEEN. Simply calling the function on high would only return strings that are decesndants of length high |
+| 2336 | Medium | Heap | Think a bit |
 
 
 
