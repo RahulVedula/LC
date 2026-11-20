@@ -111,6 +111,7 @@
 | 1371 | Medium | Hash Table | Remember that the hash table solution must stand because the sldiign window invariant doesn't hold. The french table state must be on the parity becuase we don't care so much about frequncy as we do about the parity of the values. |
 | 1817 | Medium | Hash Table | hella east q |
 | 1595 | Hard | DP | bit mask |
+| 373 | Medium | Heap | This is very similar to merge k-sorted lists, need to keep track of minimum sum across each nums1 index, then iterarte to th enext num in nums2 when we have processed a smallest pair. Essenitally, what this does is keep moving oot the index with the smallest sum (using the heap), then move to. the next right_index for that specific left_index |
 
 
 
