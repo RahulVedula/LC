@@ -110,6 +110,7 @@
 | 385 | Medium | Brute Force | brute force on comma split, bad q description |
 | 1371 | Medium | Hash Table | Remember that the hash table solution must stand because the sldiign window invariant doesn't hold. The french table state must be on the parity becuase we don't care so much about frequncy as we do about the parity of the values. |
 | 1817 | Medium | Hash Table | hella east q |
+| 1595 | Hard | DP | bit mask |
 
 
 
