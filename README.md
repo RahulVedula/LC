@@ -109,6 +109,7 @@
 | 486 | Medium | DP | Min max algorihm, remember that min just keeps track of max's score, so we don't add nums[i] to it, but observe max's socre on changing boiunds |
 | 385 | Medium | Brute Force | brute force on comma split, bad q description |
 | 1371 | Medium | Hash Table | Remember that the hash table solution must stand because the sldiign window invariant doesn't hold. The french table state must be on the parity becuase we don't care so much about frequncy as we do about the parity of the values. |
+| 1817 | Medium | Hash Table | hella east q |
 
 
 
