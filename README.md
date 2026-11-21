@@ -112,6 +112,7 @@
 | 1817 | Medium | Hash Table | hella east q |
 | 1595 | Hard | DP | bit mask |
 | 373 | Medium | Heap | This is very similar to merge k-sorted lists, need to keep track of minimum sum across each nums1 index, then iterarte to th enext num in nums2 when we have processed a smallest pair. Essenitally, what this does is keep moving oot the index with the smallest sum (using the heap), then move to. the next right_index for that specific left_index |
+| 2207 | Medium | Brute Force | mindless |
 
 
 
