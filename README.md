@@ -114,6 +114,7 @@
 | 373 | Medium | Heap | This is very similar to merge k-sorted lists, need to keep track of minimum sum across each nums1 index, then iterarte to th enext num in nums2 when we have processed a smallest pair. Essenitally, what this does is keep moving oot the index with the smallest sum (using the heap), then move to. the next right_index for that specific left_index |
 | 2207 | Medium | Brute Force | mindless |
 | 3208 | Medium | Sliding Window | Extend array from hte back of work circular array but yk when array stops so it works, keep track of one before and ur good to go |
+| 1410 | Medium | Brute Force | read one by one, token parsing, nothing fancy with splits |
 
 
 
