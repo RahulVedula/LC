@@ -116,6 +116,7 @@
 | 3208 | Medium | Sliding Window | Extend array from hte back of work circular array but yk when array stops so it works, keep track of one before and ur good to go |
 | 1410 | Medium | Brute Force | read one by one, token parsing, nothing fancy with splits |
 | 2275 | Medium | Math | Not really hard, just pay attention to bits stuff |
+| 2492 | Medium | BFS | Remember that we do not need the minimum roads it takes to reach each node, just from 1 to n, and that there is always a path between them, so we just keep track of the minimum road value in that conencted component, because each road CAN be visited more than once, so it will be included in this minimum. If the question said we could only traverse once or that we wanted the min to each node it wuld be differnet |
 
 
 
