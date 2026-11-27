@@ -115,6 +115,7 @@
 | 2207 | Medium | Brute Force | mindless |
 | 3208 | Medium | Sliding Window | Extend array from hte back of work circular array but yk when array stops so it works, keep track of one before and ur good to go |
 | 1410 | Medium | Brute Force | read one by one, token parsing, nothing fancy with splits |
+| 2275 | Medium | Math | Not really hard, just pay attention to bits stuff |
 
 
 
